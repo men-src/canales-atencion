@@ -4,4 +4,4 @@
 :HL["/canales-atencion/api/v1/canales/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"video-llamada-virtual","h":96,"c":"$Q2"}]]
-0:{"b":"3EtQGb4xPReNd5aSy_KfR","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"cMc-lQiEqi1bcMsA8IX0t","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
