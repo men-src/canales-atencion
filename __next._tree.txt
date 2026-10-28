@@ -1,6 +1,6 @@
-:HL["/canales-atencion/_next/static/chunks/1wdheqywbaq4d.css","style"]
-:HL["/canales-atencion/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/canales-atencion/_next/static/chunks/0f4_4sisne3ri.css","style"]
+:HL["/canales-atencion/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/canales-atencion/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/canales-atencion/api/v1/canales/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"YTt8GdqfyFHjbza93rWL7","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"wVSrjV5WeT-S9-GzcLMhW","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
