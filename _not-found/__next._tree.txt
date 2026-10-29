@@ -1,6 +1,6 @@
-:HL["/canales-atencion/_next/static/chunks/3ql5xwlj75i8k.css","style"]
+:HL["/canales-atencion/_next/static/chunks/0xp4hthp7cgay.css","style"]
 :HL["/canales-atencion/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/canales-atencion/api/v1/canales/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"sUz6fqJElOpXpvUXOW-lV","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Q_rk_-U_rdlDKfLW9_mAF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
