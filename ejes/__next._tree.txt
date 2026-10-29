@@ -4,4 +4,4 @@
 :HL["/canales-atencion/api/v1/canales/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"ejes","h":96,"c":"$Q2"}]]
-0:{"b":"KaH-T0ceCi4qDxwS4n3gQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"VixU1nnAv0q5LQiw6J4qf","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
