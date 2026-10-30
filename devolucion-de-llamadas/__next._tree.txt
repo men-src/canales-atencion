@@ -4,4 +4,4 @@
 :HL["/canales-atencion/api/v1/canales/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"devolucion-de-llamadas","h":96,"c":"$Q2"}]]
-0:{"b":"KN4omMj0SDharKoQV9QHU","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"ALPCWiTtVVtYkaGRmr-CC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
