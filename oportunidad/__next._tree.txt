@@ -1,7 +1,7 @@
-:HL["/canales-atencion/_next/static/chunks/1hs3rxafwo7qt.css","style"]
+:HL["/canales-atencion/_next/static/chunks/2j4ckk447iwwt.css","style"]
 :HL["/canales-atencion/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/canales-atencion/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/canales-atencion/api/v1/canales/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"oportunidad","h":96,"c":"$Q2"}]]
-0:{"b":"WLERMVsRU6XNdx2lZ5ujY","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"KN4omMj0SDharKoQV9QHU","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
