@@ -3,4 +3,4 @@
 :HL["/canales-atencion/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/canales-atencion/api/v1/canales/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"IwdMUQzt5WgB2K4JCKEzW","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"iMPXg_JpbJLDtvm9XZ4nE","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
